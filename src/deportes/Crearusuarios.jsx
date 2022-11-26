@@ -4,7 +4,7 @@ import { useNavigate } from "react-router-dom";
 //import '../../src/style.css';
 //import '../style.css';
 
-const URI = 'http://localhost:8000/usuarios/suser'
+const URI = 'http://localhost:5000/usuarios/suser'
 
 export const CompCreateUser = () => {
     //const [nombre, setTitle] = useState('')
